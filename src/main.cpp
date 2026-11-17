@@ -1,15 +1,11 @@
 #include <iostream>
-#include <fstream>
 #include <vector>
-#include <string>
-#include <time.h>
-#include <random>
 #include <ncurses.h>
 #include <locale.h>
 #include "classes.h"
+#include "functions_types.h"
 using namespace std;
-enum type {foit, kath, math, none};
-enum oper {Epej, del, noOp};
+
 
 
 //kane move ekei poy thes prin to kaleseis
